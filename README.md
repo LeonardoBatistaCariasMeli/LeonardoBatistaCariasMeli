@@ -1,19 +1,19 @@
-### Fala Galera, Eu sou o Gustavo França 👋
+### Fala Galera, Eu sou o Leonardo Batista Carias 👋
 
 
-## Eu Sou Desenvolvedor Backend e Estudante
+## Eu Sou Desenvolvedor Backend
 
 - 🔭 Trabalho no [Mercado Livre ][website]!
-- 🌱 Atualmente estou me aprofundando em microsserviços.🚀
-- 👯 Busco praticar em pequenos projetos práticos.
+- 🌱 Atualmente estou me aprofundando em microsserviços e Cloud.🚀
+- 👯 Busco praticar em pequenos projetos práticos e sempre me manter atualizado.
 - 🥅 Metas de 2021 : Me aprofundar nas tecnologias do meli e contribuir para democratização do comércio na LATAM
 
 ## Github pessoal 
-[Gustavo França](https://github.com/Gustavo-franca/)
+[Gustavo França](https://github.com/LeonardoBatistaCarias/)
 
 ### Siga me nas redes:
 
-[<img align="left" alt="Gustavo França | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="Gustavo França | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Leonardo Batista Carias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="Leonardo Batista Carias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
