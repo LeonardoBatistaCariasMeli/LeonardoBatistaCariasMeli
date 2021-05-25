@@ -9,7 +9,7 @@
 - 🥅 Metas de 2021 : Me aprofundar nas tecnologias do meli e contribuir para democratização do comércio na LATAM
 
 ## Github pessoal 
-[Gustavo França](https://github.com/LeonardoBatistaCarias/)
+[Leonardo Batista Carias](https://github.com/LeonardoBatistaCarias/)
 
 ### Siga me nas redes:
 
